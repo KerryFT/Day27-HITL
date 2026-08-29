@@ -1,5 +1,7 @@
 # Day 27: Hệ thống Agent Human-in-the-Loop (HITL)
 
+Học Viên Hoàng Vũ Trung Nguyên - 2A202601076
+
 Đây là Lab 27 xây dựng workflow LangGraph đánh giá churn risk của khách hàng có tích hợp Human-in-the-Loop qua Streamlit.
 
 ## 🚀 Cách cài đặt dependency
