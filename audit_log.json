@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "2026-08-29T16:19:36.879788",
+        "agent_id": "agent-01",
+        "action": "send_email",
+        "confidence": 0.9,
+        "reviewer_id": "system-auto",
+        "decision": "Auto-Approve"
+    },
+    {
+        "timestamp": "2026-08-29T16:20:25.443660",
+        "agent_id": "agent-01",
+        "action": "send_email",
+        "confidence": 0.8,
+        "reviewer_id": "human-operator",
+        "decision": "Edit: send_email"
+    }
+]
